@@ -1,3 +1,3 @@
-# Minnal-Challenge-Task-1
+# Minnal-Challenge-Task
 ------
 githubinu vendi oru simple repository 😁
