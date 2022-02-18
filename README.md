@@ -1,3 +1,5 @@
-# Minnal-Challenge-Task-1
+# Minnal-Challenge-Task-2
 ------
-githubinu vendi oru simple repository 😁
+Githubinu vendi oru simple repository 😁
+ 
+Checkout the latest branch [here](https://github.com/Glitchyi/Minnal-Challenge-Tasks/tree/exp)
