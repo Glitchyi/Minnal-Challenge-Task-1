@@ -7,3 +7,4 @@ Checkout the latest branch [here](https://github.com/Glitchyi/Minnal-Challenge-T
 ### Inne nammal padichu:
   - git branch 
   - git checkout
+
